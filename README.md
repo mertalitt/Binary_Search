@@ -4,9 +4,11 @@ Patika.dev Binary Search Project [Patika.dev](https://www.patika.dev/tr)
 ##### Önce kök belirlenir. Sayılar sıralı olmadıgı için soldan başlanır.
 |  ROOT  |     7
 ##### 5 7'den küçük olduğu için sola yazılır.
-|  ROOT  |     7  
+'''
+|  ROOT  |     7
               /   
-             5   
+             5
+'''             
 ##### 1 hem 5'ten hem de 7'den kucuk oldugu icin en sola yazılır
 |  ROOT  |     7  
               /   
