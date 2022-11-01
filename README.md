@@ -36,6 +36,7 @@ Patika.dev Binary Search Project [Patika.dev](https://www.patika.dev/tr)
            1 
             \
              3
+```             
 ##### 6, 5'ten büyük 7'den küçük olduğu için 5'in sağına yazılır.
 ```
 |  ROOT  |     7
